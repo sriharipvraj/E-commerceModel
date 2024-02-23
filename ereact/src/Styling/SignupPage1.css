@@ -1,0 +1,26 @@
+.sform1{
+    width: 500px;
+    margin: auto;
+    border: 1px solid #EAE5E5;
+    padding: 20px;
+    margin-top: 60px;
+    background-color:#EAE5E5;
+}
+#loginbtn1{
+    text-align: center;
+    margin-left: 130px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    
+
+}
+#signupLink1{
+    color:grey;
+    text-decoration: underline;
+    margin-left: 140px;
+    
+    
+
+
+}

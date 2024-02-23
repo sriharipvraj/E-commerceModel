@@ -1,0 +1,67 @@
+.sform{
+    width: 500px;
+    margin: auto;
+    border: 1px solid #EAE5E5;
+    padding: 20px;
+    margin-top: 60px;
+    background-color:#EAE5E5;
+    
+}
+#forgotp{
+    color:grey;
+    text-decoration: underline;
+}
+
+#loginbtn{
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 30px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+#signupLink{
+    color:grey;
+    text-decoration: underline;
+    margin-left: 130px;
+    justify-content: center;
+
+
+
+}
+
+#fbbtn{
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 80px;
+    
+}
+#fbicon{
+    width: 30px;
+    margin-right: 30px;
+    
+
+}
+#gicon{
+    width: 30px;
+    margin-right: 30px;
+    
+
+}
+#gbtn{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 80px;
+    
+    
+
+}
+
+#loginHeading{
+    text-align: center;
+    font-weight: 700;
+    color: red;
+}
+
+
+
+

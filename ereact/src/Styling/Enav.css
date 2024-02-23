@@ -1,0 +1,17 @@
+.bg-body-tertiary{
+    height: 80px;
+    
+}
+.brandname{
+    font-weight: 900;
+    color: linear-gradient(to right, red , yellow);
+}
+
+.home{
+    text-decoration: none;
+    color:red;
+    font-weight: 700;
+}
+.aicon{
+    width: 40px;
+}
